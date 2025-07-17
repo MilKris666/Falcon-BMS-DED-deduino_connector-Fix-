@@ -1,6 +1,1 @@
-Code suppliment for the DEDuino Project.
-This is the code for the computer connector app.
-
-it's a horrible mess, But I have no time to maintain it :(
-
-feel free to make poll request and expand on it, make DEDuino great again!
+Since July 2025, the DEDuino Connector app has been crashing on startup. I looked into the issue and found that the app tries to check for updates when it starts. Because the update URL is no longer available, it crashes. As a quick fix, I simply changed the URL to google.com, which was enough to get the app running again.
