@@ -34,7 +34,7 @@ namespace DEDuino
     public partial class MainWindow : Form
     {
         #region Declerations
-        public const string URLBase = @"http://files.108vfs.org/deduino/"; // URL for Updater
+        public const string URLBase = @"https://google.de/"; // URL for Updater
         public F4SharedMem.Reader BMSreader = new F4SharedMem.Reader();
         public FlightData BMSdata = new FlightData();
         public SerialPort dedDevice = new SerialPort();
