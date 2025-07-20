@@ -3,3 +3,5 @@ Since July 2025, the DEDuino Connector app has been crashing on startup. I looke
 I’ve also included a precompiled EXE file in the ZIP archive. Make sure to keep all files in the same folder, as they’re required to run the app!
 
 Works fine with Falcon BMS 4.38
+
+![Alt text](bild.jpg)
